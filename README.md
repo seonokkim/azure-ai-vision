@@ -111,6 +111,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-- [Azure Custom Vision](https://learn.microsoft.com/en-us/azure/cognitive-services/custom-vision/)
+- [Azure Custom Vision](https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/)
 - [Azure Computer Vision](https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/)
-- [Azure Vision Retrieval](https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-vision-retrieval)
+- [Azure Vision Retrieval](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/video-retrieval)
