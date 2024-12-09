@@ -1,0 +1,5 @@
+azure-cognitiveservices-vision-customvision==3.0.0
+msrest==0.7.1
+requests==2.31.0
+Pillow==9.4.0
+gradio==3.36.0
